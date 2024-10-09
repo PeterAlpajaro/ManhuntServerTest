@@ -1,2 +1,2 @@
 # ManhuntServerTest
-Testing Connection To and From a Phone with Node.js
+Testing Connection to and from a Phone with Node.js
